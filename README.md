@@ -7,7 +7,11 @@ This repository contains my solutions to LeetCode problems, organized by pattern
 2. Move Zeroes 🔄  
 3. Squares of a Sorted Array 🔢  
 4. Container With Most Water 💧  
-5. Valid Palindrome 🔁  
+5. Valid Palindrome 🔁
+## 📂 Sliding window 
+1. maximum average subarray I
+2. contains duplicate II
+3. substrings of size three with distinct characters
 
 ## 🧠 Approach
 
